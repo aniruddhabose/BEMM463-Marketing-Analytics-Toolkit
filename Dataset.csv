@@ -1,0 +1,501 @@
+CustomerID,DietaryPreference,AverageMonthlySpend,PurchaseFrequencyPerMonth,PreferredBrand,PriceSensitivity,PreferredProteinContent,FlavorPreference,EcoFriendlyPackagingImportance,SocialMediaExposure,InfluencerEndorsementImpact,InStorePromotionResponse,PurchasedNewProduct
+1,Flexitarian,88.54,12,Generic,High,Medium,BBQ,High,Yes,High,High,Yes
+2,Omnivore,126.9,4,Beyond Meat,Medium,High,Classic,Low,No,Medium,Low,Yes
+3,Health-Conscious,103.76,6,Generic,Medium,Medium,Garlic Herb,Medium,Yes,High,Medium,Yes
+4,Flexitarian,65.58,8,Impossible Foods,Low,Low,Classic,High,Yes,Medium,Medium,Yes
+5,Vegan,57.54,8,Beyond Meat,Low,Medium,Garlic Herb,Medium,Yes,Medium,Medium,Yes
+6,Vegan,92.3,3,Beyond Meat,High,High,Spicy,High,Yes,Low,High,Yes
+7,Vegan,46.99,3,Beyond Meat,Low,Medium,Garlic Herb,High,No,Low,Low,No
+8,Health-Conscious,125.79,6,Generic,High,Medium,Garlic Herb,High,Yes,Medium,Medium,Yes
+9,Health-Conscious,109.49,2,Local Brands,Medium,High,Spicy,High,No,Medium,Medium,Yes
+10,Health-Conscious,68.27,7,Impossible Foods,Medium,Low,BBQ,High,Yes,Low,High,No
+11,Vegan,37.17,5,Beyond Meat,Medium,Medium,Spicy,Low,Yes,Low,High,No
+12,Omnivore,113.85,5,Impossible Foods,High,Low,Classic,High,Yes,High,Low,Yes
+13,Health-Conscious,77.14,6,Generic,Low,Medium,Classic,Low,Yes,Medium,Medium,Yes
+14,Flexitarian,110.95,1,Generic,High,High,Classic,High,No,Medium,High,No
+15,Vegan,40.14,10,Beyond Meat,High,High,Classic,Medium,Yes,High,High,No
+16,Vegan,65.02,2,Beyond Meat,Medium,High,Classic,High,No,High,Medium,Yes
+17,Flexitarian,80.13,5,Generic,Medium,Low,BBQ,High,Yes,High,Medium,Yes
+18,Flexitarian,81.17,4,Impossible Foods,Low,Medium,BBQ,High,No,Medium,Medium,No
+19,Flexitarian,68.75,5,Beyond Meat,High,Medium,Garlic Herb,High,Yes,High,Medium,Yes
+20,Flexitarian,95.57,4,Beyond Meat,High,High,Classic,Medium,No,High,High,No
+21,Health-Conscious,53.31,5,Impossible Foods,Low,High,Spicy,High,Yes,High,Medium,Yes
+22,Vegan,76.44,6,Local Brands,Medium,Medium,Classic,Medium,Yes,Low,Low,No
+23,Flexitarian,83.01,1,Local Brands,High,High,BBQ,High,Yes,Low,High,Yes
+24,Flexitarian,92.86,3,Impossible Foods,Medium,High,Classic,High,No,Medium,Medium,Yes
+25,Flexitarian,97.79,2,Impossible Foods,Medium,Medium,BBQ,High,Yes,Medium,Medium,No
+26,Health-Conscious,51.88,5,Beyond Meat,Medium,High,Garlic Herb,Low,Yes,Low,Medium,Yes
+27,Vegan,41.65,4,Impossible Foods,Medium,High,Garlic Herb,Medium,No,High,Medium,Yes
+28,Flexitarian,111.94,7,Impossible Foods,Low,High,Garlic Herb,High,Yes,High,Low,Yes
+29,Flexitarian,88.31,7,Impossible Foods,Low,High,BBQ,High,Yes,High,Medium,Yes
+30,Vegan,61.29,2,Impossible Foods,Medium,Low,Classic,High,Yes,High,Medium,Yes
+31,Health-Conscious,118.78,6,Beyond Meat,High,High,Classic,Low,Yes,Medium,Medium,No
+32,Vegan,82.89,7,Beyond Meat,Low,High,Spicy,Medium,No,Low,High,Yes
+33,Vegan,109.48,2,Beyond Meat,Medium,High,BBQ,High,No,Medium,High,Yes
+34,Omnivore,81.69,7,Beyond Meat,Medium,Medium,Spicy,High,Yes,Medium,Medium,Yes
+35,Omnivore,131.52,5,Beyond Meat,High,High,Garlic Herb,High,No,Low,High,No
+36,Health-Conscious,123.88,7,Local Brands,Low,Medium,Classic,Low,Yes,High,Medium,No
+37,Flexitarian,73.78,6,Impossible Foods,Medium,High,BBQ,High,Yes,High,Medium,Yes
+38,Vegan,104.29,5,Impossible Foods,High,High,Spicy,Medium,Yes,Medium,Medium,Yes
+39,Health-Conscious,96.13,6,Local Brands,Medium,High,Spicy,High,Yes,Medium,Medium,No
+40,Flexitarian,114.22,5,Local Brands,Low,Low,Spicy,Medium,Yes,High,Medium,Yes
+41,Vegan,55.88,4,Impossible Foods,High,Low,Classic,Medium,No,Medium,High,No
+42,Flexitarian,97.15,7,Generic,Low,High,Classic,Medium,No,Medium,Medium,No
+43,Vegan,106.46,1,Beyond Meat,Medium,Medium,Classic,Medium,Yes,Medium,Medium,No
+44,Omnivore,36.03,8,Beyond Meat,Medium,Low,BBQ,Medium,Yes,Medium,Medium,Yes
+45,Flexitarian,50.42,4,Impossible Foods,High,High,Classic,High,No,Medium,Medium,No
+46,Health-Conscious,29.02,5,Generic,High,Low,BBQ,High,No,High,Medium,No
+47,Flexitarian,73.26,3,Generic,Low,High,Spicy,High,No,Medium,High,No
+48,Flexitarian,97.94,7,Beyond Meat,High,Low,Spicy,Low,Yes,High,High,Yes
+49,Flexitarian,117.56,2,Beyond Meat,Medium,Medium,Garlic Herb,High,No,Low,High,Yes
+50,Vegan,81.85,5,Impossible Foods,High,Low,Classic,Medium,Yes,Medium,Low,Yes
+51,Omnivore,120.72,10,Beyond Meat,High,Medium,Spicy,Medium,Yes,Medium,High,Yes
+52,Health-Conscious,45.5,7,Impossible Foods,High,High,Classic,High,Yes,Medium,High,No
+53,Omnivore,37.42,7,Generic,Medium,Low,BBQ,High,Yes,Medium,Medium,Yes
+54,Health-Conscious,78.61,10,Generic,Low,High,Spicy,High,Yes,Medium,High,Yes
+55,Flexitarian,89.6,1,Generic,High,High,Classic,High,Yes,Low,Medium,Yes
+56,Omnivore,79.18,5,Local Brands,High,Medium,Spicy,High,Yes,Low,High,No
+57,Vegan,28.31,3,Impossible Foods,High,Medium,Spicy,High,No,Medium,High,No
+58,Vegan,77.77,8,Generic,Medium,Low,Classic,Medium,Yes,High,Medium,Yes
+59,Vegan,47.39,7,Impossible Foods,Medium,High,Spicy,Low,Yes,Medium,Medium,Yes
+60,Flexitarian,96.74,3,Beyond Meat,Low,Medium,Spicy,High,Yes,Medium,Medium,Yes
+61,Flexitarian,89.16,1,Beyond Meat,Medium,Medium,Spicy,High,No,High,Medium,No
+62,Flexitarian,56.5,5,Beyond Meat,Medium,High,Spicy,High,Yes,High,Medium,No
+63,Health-Conscious,67.15,3,Impossible Foods,High,High,BBQ,Medium,Yes,Low,Medium,No
+64,Flexitarian,53.52,6,Impossible Foods,Low,High,Spicy,Medium,Yes,High,High,Yes
+65,Flexitarian,78.43,3,Generic,High,High,Garlic Herb,High,No,Medium,Medium,No
+66,Flexitarian,103.88,4,Beyond Meat,High,Low,Spicy,High,No,Medium,Medium,Yes
+67,Vegan,55.36,5,Beyond Meat,Medium,Medium,Classic,Medium,Yes,Medium,Medium,No
+68,Health-Conscious,92.6,8,Local Brands,Medium,Medium,Garlic Herb,Medium,Yes,High,Medium,Yes
+69,Vegan,66.74,7,Beyond Meat,Medium,Low,BBQ,High,No,Low,Low,No
+70,Omnivore,60.18,5,Impossible Foods,Medium,High,Garlic Herb,Medium,Yes,Medium,Low,Yes
+71,Health-Conscious,77.32,4,Impossible Foods,Medium,Low,Garlic Herb,High,Yes,Medium,Medium,No
+72,Vegan,54.12,6,Impossible Foods,High,High,Garlic Herb,High,Yes,Medium,Medium,No
+73,Vegan,66.16,8,Beyond Meat,Low,Low,Classic,Medium,Yes,Medium,High,Yes
+74,Health-Conscious,50.05,4,Beyond Meat,Medium,High,Classic,Medium,Yes,Low,Medium,Yes
+75,Health-Conscious,129.12,3,Beyond Meat,Medium,Low,Classic,High,Yes,Medium,Medium,No
+76,Health-Conscious,80.88,2,Impossible Foods,Medium,High,BBQ,Low,Yes,Medium,Medium,Yes
+77,Health-Conscious,62.51,3,Impossible Foods,High,High,Classic,High,No,Low,Low,Yes
+78,Vegan,85.35,9,Beyond Meat,Medium,Medium,Classic,Medium,Yes,Medium,Medium,Yes
+79,Flexitarian,77.19,5,Impossible Foods,Medium,High,Garlic Herb,High,No,High,Medium,No
+80,Vegan,74.48,4,Generic,High,Medium,Classic,Medium,Yes,High,Medium,Yes
+81,Health-Conscious,95.35,7,Beyond Meat,Medium,High,Spicy,Low,Yes,Low,Low,Yes
+82,Health-Conscious,98.94,8,Impossible Foods,Low,Medium,Classic,High,Yes,Medium,Medium,Yes
+83,Flexitarian,66.74,4,Generic,Medium,High,BBQ,Low,No,Medium,Medium,Yes
+84,Vegan,65.6,4,Beyond Meat,Low,High,BBQ,Medium,No,Medium,Medium,No
+85,Flexitarian,73.12,8,Beyond Meat,High,High,Spicy,Medium,Yes,High,Low,No
+86,Flexitarian,22.45,5,Impossible Foods,High,High,BBQ,High,No,Medium,High,No
+87,Health-Conscious,42.12,5,Local Brands,High,High,BBQ,Medium,Yes,High,Low,Yes
+88,Health-Conscious,114.17,6,Generic,Medium,High,Garlic Herb,Medium,No,Medium,Medium,No
+89,Health-Conscious,121.12,7,Impossible Foods,High,High,Spicy,High,No,Medium,Medium,Yes
+90,Flexitarian,73.77,2,Generic,High,High,Garlic Herb,Low,No,Medium,Medium,Yes
+91,Vegan,94.41,1,Impossible Foods,Low,Medium,Garlic Herb,High,Yes,Medium,Medium,No
+92,Health-Conscious,87.78,7,Impossible Foods,Low,Low,Classic,High,Yes,Low,High,No
+93,Health-Conscious,156.97,5,Impossible Foods,Medium,High,Spicy,High,Yes,Medium,Low,No
+94,Flexitarian,107.99,4,Beyond Meat,High,Medium,Classic,High,Yes,High,Medium,No
+95,Health-Conscious,76.8,4,Generic,High,Medium,Classic,Medium,Yes,High,Medium,Yes
+96,Flexitarian,56.11,3,Impossible Foods,High,High,Garlic Herb,High,Yes,Medium,High,Yes
+97,Flexitarian,39.84,8,Impossible Foods,Medium,Medium,BBQ,Low,Yes,Low,Medium,No
+98,Flexitarian,85.09,7,Local Brands,Low,High,Spicy,High,Yes,Low,Medium,Yes
+99,Vegan,61.09,1,Beyond Meat,Medium,Medium,BBQ,High,Yes,Low,Medium,Yes
+100,Vegan,44.44,2,Beyond Meat,High,High,Garlic Herb,High,Yes,Medium,Medium,No
+101,Vegan,63.84,4,Beyond Meat,Medium,Medium,Garlic Herb,High,No,Medium,Medium,No
+102,Health-Conscious,52.96,6,Generic,High,Medium,Garlic Herb,Low,Yes,Medium,Low,Yes
+103,Flexitarian,122.18,4,Generic,High,High,Garlic Herb,Medium,Yes,High,Medium,No
+104,Flexitarian,102.04,6,Beyond Meat,Medium,High,Garlic Herb,Medium,No,High,Low,No
+105,Omnivore,79.8,8,Generic,Medium,Low,Garlic Herb,High,Yes,Low,High,No
+106,Flexitarian,117,7,Impossible Foods,High,High,BBQ,High,Yes,High,Medium,Yes
+107,Flexitarian,81.93,5,Generic,High,Medium,Classic,High,Yes,High,Medium,Yes
+108,Health-Conscious,58.47,2,Impossible Foods,Low,Low,BBQ,High,Yes,High,Medium,Yes
+109,Flexitarian,118.08,1,Impossible Foods,High,Medium,Spicy,High,No,Low,Low,Yes
+110,Vegan,93.47,7,Local Brands,High,Medium,BBQ,Medium,Yes,Medium,High,Yes
+111,Flexitarian,54.07,4,Beyond Meat,High,Medium,Garlic Herb,High,Yes,Medium,High,Yes
+112,Vegan,75.24,1,Beyond Meat,High,Low,BBQ,Medium,Yes,Low,Low,Yes
+113,Omnivore,58.11,6,Impossible Foods,High,High,Classic,High,Yes,Medium,High,No
+114,Health-Conscious,45.43,5,Local Brands,Low,High,Spicy,High,No,Medium,Medium,Yes
+115,Health-Conscious,103.15,8,Impossible Foods,High,High,BBQ,Medium,Yes,High,Medium,No
+116,Health-Conscious,127.74,5,Beyond Meat,Medium,Low,Classic,High,Yes,High,Low,No
+117,Health-Conscious,45.04,4,Beyond Meat,Medium,Medium,BBQ,Medium,Yes,Low,High,Yes
+118,Vegan,94.07,10,Impossible Foods,Medium,High,Spicy,Medium,Yes,Medium,High,No
+119,Health-Conscious,63.73,7,Beyond Meat,Low,Low,BBQ,High,Yes,Medium,Medium,No
+120,Flexitarian,67.82,4,Generic,Low,High,Garlic Herb,Low,No,Medium,Low,Yes
+121,Health-Conscious,65.19,8,Local Brands,High,High,BBQ,High,No,Medium,Medium,No
+122,Health-Conscious,58.4,5,Impossible Foods,Medium,Medium,Classic,High,No,High,Medium,Yes
+123,Flexitarian,81.21,5,Impossible Foods,Medium,High,BBQ,Medium,No,High,Medium,No
+124,Vegan,59.23,5,Impossible Foods,Low,Low,Classic,High,Yes,High,Low,Yes
+125,Flexitarian,86.76,2,Beyond Meat,Medium,High,Spicy,Medium,Yes,High,Low,No
+126,Flexitarian,78.74,3,Local Brands,Low,Low,BBQ,Medium,No,Low,Low,Yes
+127,Health-Conscious,74.03,4,Impossible Foods,Medium,Medium,Spicy,Low,No,High,High,No
+128,Health-Conscious,57.31,9,Impossible Foods,High,High,Spicy,High,No,High,High,Yes
+129,Vegan,65.58,0,Generic,Medium,Low,BBQ,High,Yes,Medium,Medium,No
+130,Flexitarian,98.88,5,Impossible Foods,Low,Medium,Classic,Medium,Yes,Low,Low,No
+131,Flexitarian,92.52,5,Impossible Foods,Low,High,Spicy,High,No,High,Medium,Yes
+132,Flexitarian,55.56,5,Beyond Meat,High,High,Spicy,High,No,High,High,No
+133,Vegan,82.48,5,Generic,Medium,Low,BBQ,High,No,Medium,Low,Yes
+134,Flexitarian,98.78,4,Local Brands,High,High,BBQ,High,Yes,Medium,High,No
+135,Omnivore,38.26,9,Impossible Foods,High,High,BBQ,High,Yes,Medium,Medium,Yes
+136,Flexitarian,93.58,6,Local Brands,Medium,High,BBQ,Medium,Yes,Low,Medium,No
+137,Flexitarian,63.43,2,Beyond Meat,High,High,BBQ,Medium,No,Low,Medium,No
+138,Health-Conscious,94.26,6,Impossible Foods,Low,Medium,Garlic Herb,High,Yes,Medium,Medium,Yes
+139,Flexitarian,60.92,6,Impossible Foods,High,High,BBQ,High,Yes,Medium,Medium,Yes
+140,Omnivore,34.88,6,Impossible Foods,Low,High,Classic,High,No,Medium,Medium,Yes
+141,Omnivore,39.31,5,Impossible Foods,High,High,Spicy,Medium,Yes,High,Medium,No
+142,Flexitarian,81.2,2,Beyond Meat,High,High,Classic,High,No,Low,Medium,Yes
+143,Flexitarian,86.49,5,Beyond Meat,High,Low,Classic,Medium,Yes,Medium,Medium,Yes
+144,Flexitarian,57.39,3,Impossible Foods,High,High,Garlic Herb,High,No,High,Medium,No
+145,Flexitarian,95.96,3,Beyond Meat,High,Low,BBQ,Medium,Yes,Medium,High,Yes
+146,Vegan,38.46,3,Generic,High,High,Spicy,High,No,High,High,No
+147,Health-Conscious,78.35,6,Beyond Meat,Medium,High,Classic,Medium,No,Medium,High,Yes
+148,Flexitarian,49.72,6,Beyond Meat,High,Low,BBQ,High,Yes,Medium,Medium,Yes
+149,Vegan,63.7,4,Impossible Foods,Medium,High,BBQ,Medium,Yes,Medium,Low,No
+150,Flexitarian,81.18,5,Impossible Foods,High,Medium,Garlic Herb,High,Yes,Low,Medium,Yes
+151,Omnivore,58.49,5,Local Brands,Low,Low,Garlic Herb,Medium,Yes,High,Low,Yes
+152,Flexitarian,70.39,7,Impossible Foods,Low,High,Garlic Herb,Medium,No,Medium,Medium,No
+153,Vegan,105.16,5,Beyond Meat,Medium,High,Spicy,High,Yes,Medium,Medium,Yes
+154,Flexitarian,65.58,3,Generic,High,Medium,Classic,Medium,Yes,Medium,Medium,No
+155,Omnivore,100.89,4,Impossible Foods,High,High,Garlic Herb,High,Yes,Medium,High,No
+156,Flexitarian,51.76,7,Beyond Meat,Low,High,Garlic Herb,High,No,Medium,High,Yes
+157,Health-Conscious,93.25,5,Impossible Foods,High,High,Garlic Herb,High,No,Medium,Medium,Yes
+158,Health-Conscious,116.04,7,Local Brands,High,High,Classic,High,Yes,High,Low,No
+159,Flexitarian,18.21,8,Impossible Foods,High,Medium,Classic,Medium,Yes,Low,High,Yes
+160,Health-Conscious,60.08,7,Beyond Meat,High,High,Garlic Herb,Medium,Yes,Medium,High,Yes
+161,Flexitarian,94.43,5,Beyond Meat,High,High,Garlic Herb,High,Yes,Medium,Low,No
+162,Health-Conscious,74.92,8,Beyond Meat,Medium,Medium,BBQ,High,Yes,High,Medium,Yes
+163,Health-Conscious,89.28,4,Impossible Foods,High,High,Garlic Herb,Medium,Yes,High,Low,No
+164,Flexitarian,64.9,6,Impossible Foods,Medium,High,Spicy,Low,Yes,Medium,Medium,Yes
+165,Vegan,82.16,8,Beyond Meat,High,Medium,Spicy,High,Yes,Low,Low,Yes
+166,Health-Conscious,76.11,6,Local Brands,High,High,Garlic Herb,Low,Yes,Medium,Medium,Yes
+167,Flexitarian,109.19,3,Generic,Low,Medium,Classic,High,Yes,Low,Medium,No
+168,Vegan,86.36,8,Impossible Foods,High,Low,BBQ,High,Yes,Medium,Medium,No
+169,Vegan,88.44,4,Generic,Low,High,Classic,Medium,No,Medium,Medium,No
+170,Flexitarian,69.7,7,Beyond Meat,Medium,Medium,Garlic Herb,High,No,High,Medium,Yes
+171,Health-Conscious,67.81,2,Impossible Foods,High,High,Spicy,High,Yes,Low,High,Yes
+172,Vegan,69.19,10,Impossible Foods,Low,High,BBQ,High,Yes,High,Medium,Yes
+173,Flexitarian,89.86,6,Generic,High,Low,Classic,Medium,No,Low,Medium,Yes
+174,Flexitarian,69.48,4,Generic,Low,Low,Classic,Medium,No,Low,Low,No
+175,Health-Conscious,87.24,5,Beyond Meat,High,High,Garlic Herb,High,Yes,Low,Medium,No
+176,Vegan,131.89,6,Local Brands,Low,Medium,BBQ,High,Yes,Medium,Medium,Yes
+177,Health-Conscious,101.78,4,Beyond Meat,High,Low,Spicy,High,Yes,Medium,High,No
+178,Flexitarian,71.85,5,Local Brands,Medium,Low,Garlic Herb,High,Yes,Medium,Medium,Yes
+179,Omnivore,110.03,6,Local Brands,Medium,Medium,BBQ,High,Yes,High,Medium,No
+180,Vegan,69.8,3,Beyond Meat,Low,High,Classic,Medium,Yes,Medium,Low,Yes
+181,Flexitarian,29.05,7,Generic,Low,High,Garlic Herb,High,Yes,High,Low,Yes
+182,Vegan,54.8,7,Beyond Meat,Low,Low,Classic,High,Yes,Medium,High,Yes
+183,Omnivore,33.23,8,Impossible Foods,Low,High,Classic,High,Yes,High,Low,Yes
+184,Health-Conscious,71.21,4,Impossible Foods,High,Medium,Garlic Herb,High,Yes,High,High,No
+185,Flexitarian,80.46,7,Impossible Foods,High,High,Garlic Herb,Low,Yes,Medium,Medium,Yes
+186,Health-Conscious,121.91,3,Local Brands,High,High,Garlic Herb,High,Yes,Medium,Medium,Yes
+187,Health-Conscious,88.17,4,Generic,High,High,Garlic Herb,High,Yes,Medium,High,No
+188,Flexitarian,74.52,4,Impossible Foods,High,Low,Garlic Herb,High,No,High,Medium,No
+189,Flexitarian,100.74,0,Generic,Medium,High,Classic,High,Yes,Medium,High,No
+190,Flexitarian,24.72,1,Local Brands,High,Medium,Spicy,High,No,High,High,Yes
+191,Vegan,85.89,1,Beyond Meat,Medium,High,Spicy,High,No,Medium,Medium,No
+192,Health-Conscious,99.27,7,Local Brands,High,High,Garlic Herb,High,Yes,Medium,Medium,No
+193,Omnivore,43.04,5,Beyond Meat,High,High,Classic,High,Yes,Medium,Low,Yes
+194,Health-Conscious,108.59,5,Generic,Medium,Medium,Spicy,High,Yes,Medium,Medium,Yes
+195,Flexitarian,88.46,8,Beyond Meat,Medium,High,Spicy,High,No,Medium,Medium,Yes
+196,Flexitarian,69.62,3,Beyond Meat,Medium,High,Spicy,Low,No,Medium,Medium,Yes
+197,Health-Conscious,95.82,5,Impossible Foods,Medium,High,Classic,High,No,Medium,High,Yes
+198,Health-Conscious,136.77,3,Impossible Foods,High,High,Garlic Herb,High,Yes,Medium,High,Yes
+199,Health-Conscious,84.55,5,Impossible Foods,Medium,Low,Garlic Herb,High,Yes,Medium,Medium,No
+200,Health-Conscious,86.21,1,Beyond Meat,High,Low,Garlic Herb,High,Yes,High,Medium,No
+201,Health-Conscious,68.52,7,Impossible Foods,High,High,BBQ,Medium,Yes,Medium,Medium,No
+202,Vegan,58.75,2,Local Brands,Medium,Medium,BBQ,High,Yes,Medium,Medium,No
+203,Vegan,100.76,4,Impossible Foods,High,Low,BBQ,Medium,Yes,Medium,Medium,Yes
+204,Health-Conscious,58.6,6,Beyond Meat,High,High,Classic,High,No,High,High,No
+205,Health-Conscious,81.79,7,Impossible Foods,Low,Low,Spicy,High,Yes,High,High,No
+206,Vegan,68.06,9,Beyond Meat,Low,Low,Spicy,Medium,Yes,Low,Low,Yes
+207,Vegan,91.97,4,Generic,High,High,Classic,High,Yes,Medium,Medium,No
+208,Health-Conscious,88.34,1,Generic,High,High,Classic,High,No,High,Low,No
+209,Vegan,105.94,4,Impossible Foods,High,Low,Garlic Herb,High,No,Medium,High,Yes
+210,Vegan,67.25,6,Impossible Foods,High,Medium,Garlic Herb,Medium,Yes,Medium,Low,No
+211,Flexitarian,73.25,3,Generic,Low,High,BBQ,High,Yes,Low,High,Yes
+212,Health-Conscious,55.53,4,Impossible Foods,High,High,BBQ,Medium,Yes,High,High,Yes
+213,Health-Conscious,68.89,2,Generic,Medium,High,Classic,High,No,High,Low,Yes
+214,Flexitarian,89.43,6,Impossible Foods,High,Medium,BBQ,Medium,Yes,Low,Medium,No
+215,Health-Conscious,98.92,8,Generic,Low,Medium,Spicy,High,Yes,High,Medium,No
+216,Flexitarian,56.95,7,Impossible Foods,High,Low,Classic,Medium,Yes,High,High,No
+217,Flexitarian,101.74,2,Impossible Foods,Medium,High,Classic,High,Yes,Low,Medium,Yes
+218,Health-Conscious,113.89,6,Local Brands,High,Medium,Spicy,Low,No,Medium,Low,Yes
+219,Health-Conscious,90.34,9,Impossible Foods,Medium,Medium,Garlic Herb,High,Yes,High,Medium,No
+220,Health-Conscious,126.92,3,Impossible Foods,High,High,Garlic Herb,High,Yes,High,Medium,No
+221,Health-Conscious,60.66,8,Beyond Meat,High,High,Spicy,High,Yes,High,High,Yes
+222,Flexitarian,48.88,7,Impossible Foods,Low,Low,Spicy,High,Yes,High,Medium,Yes
+223,Vegan,35.53,6,Impossible Foods,Low,Low,BBQ,High,No,Low,Medium,No
+224,Flexitarian,117.4,10,Beyond Meat,Low,High,Classic,Low,Yes,Medium,High,No
+225,Flexitarian,96.36,5,Beyond Meat,Medium,Medium,BBQ,Low,No,Medium,Medium,Yes
+226,Flexitarian,78.61,5,Impossible Foods,Low,High,Spicy,High,No,Low,High,Yes
+227,Omnivore,87,5,Generic,High,Medium,BBQ,Low,Yes,Medium,Low,No
+228,Flexitarian,51.86,5,Impossible Foods,High,Medium,Spicy,High,Yes,High,Medium,No
+229,Health-Conscious,141.14,4,Beyond Meat,High,Medium,BBQ,High,Yes,Medium,High,Yes
+230,Health-Conscious,83.23,10,Generic,Medium,Low,BBQ,Medium,No,Low,Medium,Yes
+231,Health-Conscious,82.73,3,Beyond Meat,High,Medium,Garlic Herb,Medium,Yes,Low,Medium,No
+232,Flexitarian,98.14,2,Impossible Foods,High,High,Spicy,Low,Yes,High,Medium,Yes
+233,Flexitarian,92.03,6,Beyond Meat,Medium,Medium,BBQ,High,Yes,Medium,Low,Yes
+234,Flexitarian,85.6,4,Beyond Meat,Low,High,Classic,Medium,No,Medium,Medium,Yes
+235,Vegan,60.24,4,Beyond Meat,High,High,BBQ,High,Yes,Low,Low,Yes
+236,Health-Conscious,91.79,8,Impossible Foods,High,High,BBQ,High,Yes,High,Medium,No
+237,Flexitarian,127.05,5,Beyond Meat,High,High,Classic,High,Yes,Medium,High,Yes
+238,Vegan,113.64,4,Impossible Foods,High,Medium,Spicy,Low,Yes,Low,Medium,No
+239,Health-Conscious,119.83,7,Impossible Foods,High,High,Garlic Herb,Medium,No,Medium,Medium,Yes
+240,Vegan,67.22,4,Impossible Foods,Medium,Medium,Garlic Herb,Medium,Yes,Medium,Medium,Yes
+241,Omnivore,55.26,2,Impossible Foods,Medium,Medium,Garlic Herb,High,No,High,Low,Yes
+242,Omnivore,76.86,2,Generic,Medium,High,Classic,High,Yes,High,Medium,No
+243,Omnivore,81.39,3,Beyond Meat,High,Low,BBQ,High,Yes,Medium,Low,No
+244,Flexitarian,107.35,3,Impossible Foods,Low,High,Spicy,High,Yes,Low,Low,Yes
+245,Vegan,37.69,8,Beyond Meat,High,High,BBQ,High,Yes,High,Medium,No
+246,Omnivore,118.24,6,Beyond Meat,Medium,Medium,Garlic Herb,Medium,Yes,Medium,Medium,No
+247,Flexitarian,76.05,0,Impossible Foods,Low,High,BBQ,High,Yes,Medium,Medium,No
+248,Omnivore,69.33,8,Impossible Foods,High,High,Classic,High,Yes,High,Low,Yes
+249,Omnivore,54.7,5,Local Brands,High,Medium,Classic,High,Yes,Medium,Medium,No
+250,Health-Conscious,38.63,4,Impossible Foods,Low,Medium,Spicy,High,Yes,Medium,High,Yes
+251,Flexitarian,100.58,5,Local Brands,High,High,Spicy,High,No,Low,Medium,Yes
+252,Flexitarian,81.83,7,Beyond Meat,Medium,Low,Garlic Herb,Low,Yes,Medium,Medium,No
+253,Health-Conscious,47.75,6,Beyond Meat,High,Medium,Spicy,Medium,Yes,Medium,High,Yes
+254,Flexitarian,47.62,3,Beyond Meat,Medium,Low,BBQ,Medium,Yes,High,High,Yes
+255,Vegan,71.61,4,Beyond Meat,High,High,Classic,High,No,Low,Medium,Yes
+256,Flexitarian,121.73,2,Impossible Foods,High,Medium,Classic,High,No,High,Medium,No
+257,Omnivore,73.51,4,Impossible Foods,Medium,Low,Classic,High,Yes,Medium,Medium,No
+258,Health-Conscious,42.42,1,Beyond Meat,High,Medium,Spicy,Medium,No,High,Medium,Yes
+259,Flexitarian,73.86,9,Local Brands,High,Medium,Classic,Medium,Yes,Low,High,No
+260,Vegan,73.18,3,Generic,High,High,Classic,High,Yes,Medium,Medium,Yes
+261,Health-Conscious,12.58,1,Beyond Meat,High,High,Classic,High,No,Medium,Medium,Yes
+262,Omnivore,78.64,5,Beyond Meat,High,High,Garlic Herb,High,No,High,High,No
+263,Vegan,74.23,4,Beyond Meat,High,High,Garlic Herb,Medium,Yes,Medium,Medium,Yes
+264,Flexitarian,97.41,6,Beyond Meat,Low,Low,Spicy,Low,No,Medium,Medium,Yes
+265,Health-Conscious,126.22,5,Beyond Meat,High,High,Classic,High,Yes,Medium,High,Yes
+266,Health-Conscious,108.16,8,Impossible Foods,Medium,Low,Spicy,High,No,High,High,No
+267,Health-Conscious,73.28,5,Beyond Meat,High,Low,Classic,High,Yes,Low,High,Yes
+268,Health-Conscious,52.34,7,Impossible Foods,High,High,Classic,High,Yes,Low,Low,No
+269,Flexitarian,144.33,4,Local Brands,Low,High,Classic,High,Yes,High,Low,No
+270,Flexitarian,81.48,1,Generic,High,Low,Spicy,High,Yes,Low,Low,Yes
+271,Health-Conscious,80.35,5,Local Brands,Low,Low,Spicy,Medium,Yes,Medium,Medium,No
+272,Health-Conscious,79.4,4,Beyond Meat,High,High,Classic,Medium,Yes,Medium,Medium,Yes
+273,Health-Conscious,84.95,3,Impossible Foods,Medium,High,BBQ,High,Yes,Medium,Medium,Yes
+274,Omnivore,76.39,2,Impossible Foods,Medium,Medium,Spicy,Medium,Yes,Medium,Medium,No
+275,Flexitarian,65.66,12,Beyond Meat,Low,Medium,Garlic Herb,High,Yes,Medium,High,No
+276,Flexitarian,66.33,5,Beyond Meat,Medium,High,Spicy,High,Yes,Medium,Medium,Yes
+277,Health-Conscious,79.18,10,Generic,Medium,Medium,Classic,High,Yes,Medium,Low,Yes
+278,Health-Conscious,66.41,6,Impossible Foods,High,High,BBQ,High,No,Medium,Medium,Yes
+279,Health-Conscious,62.18,1,Impossible Foods,High,High,Classic,High,No,Medium,Medium,Yes
+280,Health-Conscious,82.66,6,Impossible Foods,Low,High,Garlic Herb,High,No,High,Medium,Yes
+281,Health-Conscious,73.63,2,Impossible Foods,High,High,Spicy,High,Yes,Low,Medium,Yes
+282,Flexitarian,117.6,4,Beyond Meat,High,High,Spicy,Low,No,Medium,Medium,No
+283,Flexitarian,13.73,5,Beyond Meat,Medium,High,Classic,High,Yes,High,Low,Yes
+284,Vegan,107.29,8,Beyond Meat,High,High,Classic,High,Yes,High,Medium,Yes
+285,Flexitarian,111.15,4,Beyond Meat,Low,High,Garlic Herb,High,Yes,Medium,Low,No
+286,Vegan,28.17,2,Local Brands,Medium,High,BBQ,Medium,No,Low,Medium,No
+287,Flexitarian,71.43,1,Impossible Foods,Medium,Low,Garlic Herb,High,Yes,Medium,Low,Yes
+288,Flexitarian,70.71,8,Generic,Low,High,BBQ,Medium,Yes,Medium,Medium,Yes
+289,Flexitarian,44.81,8,Beyond Meat,High,High,Spicy,High,Yes,High,Medium,No
+290,Flexitarian,60.55,4,Impossible Foods,High,Medium,BBQ,High,No,Medium,Medium,Yes
+291,Vegan,52.24,1,Beyond Meat,Medium,Low,BBQ,High,Yes,Low,Medium,Yes
+292,Vegan,123.81,9,Beyond Meat,High,High,Spicy,High,Yes,Medium,Low,No
+293,Health-Conscious,103.39,4,Beyond Meat,Medium,Medium,Spicy,High,Yes,High,High,Yes
+294,Flexitarian,111.79,2,Generic,Low,Medium,Spicy,High,Yes,Medium,High,Yes
+295,Vegan,98.04,4,Generic,Medium,Medium,Garlic Herb,High,Yes,High,Low,Yes
+296,Flexitarian,51.77,3,Impossible Foods,High,High,Spicy,High,Yes,Medium,Medium,Yes
+297,Health-Conscious,66.89,8,Impossible Foods,Low,Medium,Classic,High,No,Medium,Medium,Yes
+298,Flexitarian,92.23,9,Local Brands,Medium,High,Spicy,Low,Yes,Medium,Medium,No
+299,Health-Conscious,49.45,4,Beyond Meat,Medium,Medium,Spicy,High,Yes,High,High,Yes
+300,Vegan,97.82,4,Beyond Meat,High,Medium,Spicy,Medium,Yes,Low,Low,Yes
+301,Vegan,73.99,5,Beyond Meat,Low,High,BBQ,Medium,Yes,Medium,Medium,Yes
+302,Flexitarian,70.63,11,Generic,Medium,Low,Garlic Herb,High,Yes,Medium,Medium,No
+303,Flexitarian,97.77,8,Local Brands,Medium,High,Spicy,High,Yes,Medium,Medium,Yes
+304,Health-Conscious,91.11,6,Beyond Meat,Low,Low,Garlic Herb,High,Yes,Medium,Low,Yes
+305,Health-Conscious,70.98,2,Local Brands,High,High,Classic,Medium,No,Medium,High,No
+306,Omnivore,108.98,8,Generic,Medium,High,Classic,Medium,Yes,Medium,Low,Yes
+307,Flexitarian,52.97,7,Beyond Meat,Low,High,Spicy,Medium,Yes,Medium,Medium,Yes
+308,Flexitarian,95.4,6,Impossible Foods,High,Low,Classic,Low,No,High,Medium,Yes
+309,Health-Conscious,94.83,5,Impossible Foods,Medium,High,Garlic Herb,Medium,Yes,Low,Low,Yes
+310,Flexitarian,72.26,3,Local Brands,Low,High,BBQ,High,No,Medium,Medium,Yes
+311,Flexitarian,88.15,5,Beyond Meat,Medium,High,Spicy,High,Yes,High,Medium,No
+312,Vegan,48.72,3,Generic,Medium,Medium,Classic,Medium,Yes,Medium,Medium,Yes
+313,Vegan,103.1,3,Beyond Meat,Low,Medium,Garlic Herb,High,No,Low,Medium,No
+314,Omnivore,75.38,7,Generic,Low,High,Garlic Herb,High,Yes,Low,Medium,Yes
+315,Health-Conscious,66.93,4,Impossible Foods,High,High,Classic,Medium,Yes,Medium,Low,Yes
+316,Health-Conscious,106.23,4,Impossible Foods,High,High,Garlic Herb,High,No,High,Low,Yes
+317,Flexitarian,62.39,6,Generic,Medium,High,Garlic Herb,Low,Yes,Medium,Medium,No
+318,Vegan,44.79,6,Generic,Medium,High,Spicy,Medium,Yes,High,Medium,Yes
+319,Vegan,41.08,3,Local Brands,Medium,Medium,Garlic Herb,High,Yes,Low,High,No
+320,Flexitarian,95.15,4,Beyond Meat,Medium,High,Classic,Low,No,High,High,Yes
+321,Flexitarian,47.99,6,Generic,High,High,Spicy,High,No,High,Medium,Yes
+322,Health-Conscious,123.87,6,Beyond Meat,Medium,High,Classic,High,Yes,Medium,Low,Yes
+323,Health-Conscious,27.95,6,Impossible Foods,High,Low,BBQ,High,Yes,Medium,Medium,Yes
+324,Flexitarian,122.41,6,Impossible Foods,Medium,Low,Classic,High,No,Medium,Low,Yes
+325,Omnivore,85.28,3,Impossible Foods,Medium,Low,Classic,High,Yes,Medium,High,Yes
+326,Health-Conscious,77.58,5,Impossible Foods,High,High,Spicy,High,Yes,High,Medium,No
+327,Flexitarian,66.38,2,Local Brands,High,High,Garlic Herb,High,No,High,High,Yes
+328,Health-Conscious,89.98,5,Beyond Meat,Medium,High,Classic,High,No,Medium,Medium,No
+329,Flexitarian,79.06,3,Generic,Medium,High,Spicy,Medium,No,High,High,Yes
+330,Flexitarian,107.58,3,Impossible Foods,High,Medium,BBQ,Medium,Yes,Medium,Low,Yes
+331,Flexitarian,82.86,5,Beyond Meat,Low,Medium,Spicy,High,Yes,Medium,High,No
+332,Health-Conscious,83.76,11,Beyond Meat,Medium,Low,Spicy,High,Yes,Medium,Low,Yes
+333,Vegan,70.91,7,Local Brands,Low,Low,Garlic Herb,High,Yes,Low,Medium,Yes
+334,Vegan,78.58,7,Local Brands,Medium,High,Classic,High,Yes,Low,Low,No
+335,Vegan,87.7,4,Local Brands,Medium,Medium,BBQ,Medium,No,Low,Medium,No
+336,Vegan,37.25,1,Local Brands,Low,High,Spicy,Medium,Yes,High,Low,Yes
+337,Health-Conscious,46.3,4,Beyond Meat,Medium,High,Classic,High,No,High,High,Yes
+338,Health-Conscious,98.58,5,Impossible Foods,Medium,Medium,Classic,High,Yes,Medium,Medium,No
+339,Flexitarian,84.27,4,Generic,High,High,Spicy,High,Yes,Low,Low,Yes
+340,Vegan,75.4,4,Impossible Foods,Medium,High,Classic,Medium,Yes,Low,High,No
+341,Flexitarian,80.46,7,Impossible Foods,High,High,Spicy,High,Yes,Low,High,Yes
+342,Flexitarian,88.69,6,Impossible Foods,High,Medium,Spicy,Low,Yes,High,Medium,Yes
+343,Vegan,66.51,8,Impossible Foods,High,Medium,Spicy,Medium,No,Low,Low,No
+344,Flexitarian,60.54,4,Impossible Foods,High,High,BBQ,High,No,Medium,Medium,Yes
+345,Flexitarian,84.9,3,Beyond Meat,Low,Low,Spicy,High,Yes,High,Medium,Yes
+346,Health-Conscious,55.54,0,Impossible Foods,High,High,Garlic Herb,Low,Yes,Medium,High,Yes
+347,Health-Conscious,90.21,4,Impossible Foods,Medium,High,Classic,High,No,High,High,No
+348,Vegan,37.44,1,Impossible Foods,Low,Medium,BBQ,High,Yes,Medium,Low,No
+349,Flexitarian,105.73,4,Beyond Meat,Medium,Medium,Classic,High,Yes,Medium,High,Yes
+350,Health-Conscious,91.81,3,Generic,High,Low,BBQ,Medium,Yes,Medium,Medium,Yes
+351,Flexitarian,86.4,5,Beyond Meat,Medium,High,Garlic Herb,Medium,No,Medium,Low,No
+352,Health-Conscious,104.57,6,Impossible Foods,Medium,Medium,BBQ,Medium,Yes,Low,High,No
+353,Health-Conscious,121.64,6,Generic,Medium,Medium,BBQ,Medium,Yes,Medium,Medium,No
+354,Vegan,105.36,4,Impossible Foods,Medium,Low,BBQ,Medium,No,Medium,High,Yes
+355,Vegan,33.98,4,Beyond Meat,Low,High,Classic,Low,Yes,Low,Medium,No
+356,Health-Conscious,48.01,5,Generic,Medium,Medium,Spicy,High,Yes,Low,High,No
+357,Vegan,64.38,1,Impossible Foods,High,Medium,Classic,High,Yes,High,Medium,Yes
+358,Flexitarian,80.65,9,Generic,Medium,High,Spicy,Medium,No,Medium,Medium,Yes
+359,Omnivore,92.94,7,Generic,High,High,Classic,Medium,Yes,High,Medium,Yes
+360,Flexitarian,61.86,5,Impossible Foods,Low,High,Garlic Herb,Medium,No,High,Medium,No
+361,Flexitarian,84.67,4,Impossible Foods,High,Medium,Garlic Herb,High,Yes,Medium,High,Yes
+362,Health-Conscious,61.12,5,Beyond Meat,High,Low,BBQ,Medium,Yes,Low,Medium,No
+363,Flexitarian,64.71,4,Beyond Meat,Low,Medium,Garlic Herb,Medium,No,High,Medium,No
+364,Flexitarian,44.83,1,Impossible Foods,Medium,Medium,BBQ,High,Yes,Low,Medium,No
+365,Omnivore,56.92,3,Impossible Foods,High,Medium,Spicy,High,Yes,Low,High,No
+366,Flexitarian,46.21,7,Impossible Foods,Medium,High,Garlic Herb,High,Yes,Low,Medium,No
+367,Omnivore,55.6,6,Beyond Meat,Low,High,Spicy,High,Yes,High,High,Yes
+368,Omnivore,106.34,10,Beyond Meat,High,High,Classic,High,Yes,Low,Medium,No
+369,Vegan,56.27,4,Impossible Foods,Low,High,Spicy,High,Yes,Medium,High,Yes
+370,Vegan,145.81,5,Beyond Meat,High,High,Classic,High,Yes,Medium,Medium,No
+371,Vegan,92.33,6,Generic,Medium,Medium,Spicy,Medium,No,High,Medium,Yes
+372,Vegan,84.62,6,Beyond Meat,Low,High,Spicy,Medium,Yes,High,Low,No
+373,Vegan,58.54,8,Impossible Foods,High,High,Garlic Herb,Medium,No,Medium,Low,No
+374,Health-Conscious,97.51,4,Local Brands,Medium,High,Spicy,High,Yes,Medium,High,No
+375,Vegan,65.61,3,Beyond Meat,High,High,Garlic Herb,High,Yes,High,Medium,Yes
+376,Flexitarian,83.05,3,Impossible Foods,Medium,Low,Garlic Herb,Medium,Yes,High,High,Yes
+377,Health-Conscious,144,9,Beyond Meat,Medium,Low,BBQ,High,Yes,Medium,Medium,No
+378,Vegan,77.6,7,Impossible Foods,Medium,Medium,BBQ,Low,Yes,High,Medium,Yes
+379,Health-Conscious,108.73,2,Impossible Foods,High,High,Classic,Medium,No,Low,Medium,No
+380,Flexitarian,62.42,2,Impossible Foods,High,Medium,Spicy,High,No,High,Medium,Yes
+381,Vegan,79.13,4,Impossible Foods,High,Low,Classic,Low,No,High,Medium,No
+382,Health-Conscious,124.27,6,Local Brands,High,Medium,Spicy,High,Yes,Medium,Medium,Yes
+383,Health-Conscious,64.33,9,Beyond Meat,Medium,High,BBQ,High,No,Medium,High,No
+384,Health-Conscious,125.31,11,Beyond Meat,Low,Medium,BBQ,Medium,Yes,Medium,Medium,No
+385,Health-Conscious,97.69,4,Local Brands,Medium,Low,Spicy,High,Yes,Medium,Medium,Yes
+386,Health-Conscious,65.94,7,Impossible Foods,Medium,Medium,Spicy,Low,No,Low,Medium,Yes
+387,Flexitarian,95.81,7,Local Brands,Low,Medium,BBQ,High,Yes,Medium,High,Yes
+388,Vegan,104.31,3,Impossible Foods,Medium,High,BBQ,High,Yes,High,Medium,No
+389,Health-Conscious,95.55,7,Generic,Low,Medium,Classic,High,Yes,Medium,Medium,Yes
+390,Health-Conscious,40.74,5,Impossible Foods,Medium,High,BBQ,Medium,Yes,Low,High,No
+391,Omnivore,61.82,2,Generic,High,Medium,Spicy,High,No,Medium,Medium,Yes
+392,Flexitarian,73.81,9,Local Brands,High,High,Classic,High,Yes,High,Low,Yes
+393,Flexitarian,78.14,6,Impossible Foods,Medium,High,Spicy,Medium,No,Medium,Low,Yes
+394,Health-Conscious,95.52,3,Beyond Meat,High,High,Garlic Herb,High,Yes,Medium,Medium,Yes
+395,Flexitarian,84.44,6,Beyond Meat,High,Medium,Classic,Medium,Yes,Medium,Medium,Yes
+396,Omnivore,46.62,3,Beyond Meat,Medium,High,Spicy,High,Yes,High,High,No
+397,Health-Conscious,89.5,2,Beyond Meat,Medium,Medium,BBQ,Medium,Yes,High,Low,No
+398,Flexitarian,95.26,8,Beyond Meat,Medium,Medium,Garlic Herb,Medium,Yes,Medium,High,Yes
+399,Health-Conscious,93.99,4,Impossible Foods,High,High,Spicy,High,No,High,Low,No
+400,Health-Conscious,107.02,5,Impossible Foods,High,High,Classic,High,No,Medium,Medium,No
+401,Vegan,100.85,4,Impossible Foods,Medium,High,Spicy,Medium,No,Medium,Medium,Yes
+402,Omnivore,91.48,3,Impossible Foods,Low,Low,Garlic Herb,High,No,High,Low,Yes
+403,Flexitarian,78.25,4,Beyond Meat,Medium,Medium,Classic,Low,No,Low,High,Yes
+404,Health-Conscious,38.48,3,Beyond Meat,Low,High,Garlic Herb,High,Yes,Low,Medium,Yes
+405,Flexitarian,90.74,11,Beyond Meat,Medium,High,Spicy,High,No,Medium,Medium,No
+406,Health-Conscious,85.19,6,Impossible Foods,Medium,Medium,BBQ,High,Yes,High,High,No
+407,Flexitarian,86.79,5,Beyond Meat,High,Low,BBQ,Low,Yes,High,Medium,Yes
+408,Vegan,48.08,5,Beyond Meat,Medium,Low,Spicy,High,Yes,Medium,Medium,Yes
+409,Omnivore,52.97,5,Impossible Foods,Medium,Medium,Spicy,Medium,Yes,High,Medium,No
+410,Vegan,106.33,3,Generic,Medium,High,Spicy,Medium,Yes,Low,High,No
+411,Flexitarian,79.01,6,Beyond Meat,Medium,High,Classic,High,No,High,Low,No
+412,Omnivore,97.04,4,Impossible Foods,Medium,High,Garlic Herb,High,Yes,Medium,High,No
+413,Omnivore,80.71,5,Generic,High,High,Garlic Herb,Medium,Yes,Medium,High,Yes
+414,Flexitarian,80.74,3,Generic,Medium,High,Garlic Herb,High,Yes,Medium,Medium,No
+415,Health-Conscious,103.46,7,Local Brands,High,High,Spicy,Medium,Yes,High,High,No
+416,Flexitarian,67.1,3,Beyond Meat,Low,High,Garlic Herb,High,Yes,Medium,High,Yes
+417,Flexitarian,82.4,6,Beyond Meat,High,Low,Spicy,High,Yes,High,Low,No
+418,Flexitarian,68.44,7,Local Brands,High,Medium,Classic,Medium,Yes,Low,Medium,Yes
+419,Health-Conscious,69.14,1,Impossible Foods,Medium,Low,BBQ,High,Yes,High,High,Yes
+420,Health-Conscious,72.27,6,Impossible Foods,Medium,Medium,Spicy,High,No,Low,High,Yes
+421,Health-Conscious,85.55,4,Generic,Medium,High,Spicy,High,No,Low,Medium,Yes
+422,Health-Conscious,68.03,2,Generic,High,Medium,BBQ,High,Yes,High,Low,Yes
+423,Vegan,111.39,2,Local Brands,Medium,High,BBQ,High,Yes,Medium,Medium,Yes
+424,Flexitarian,57.63,5,Local Brands,High,Medium,Classic,Medium,Yes,High,High,Yes
+425,Vegan,75.33,5,Generic,Low,High,Garlic Herb,High,No,Low,High,Yes
+426,Flexitarian,69.01,3,Beyond Meat,Low,Low,Spicy,High,Yes,Medium,High,Yes
+427,Flexitarian,116.17,5,Local Brands,Medium,High,Garlic Herb,Medium,Yes,Medium,High,Yes
+428,Health-Conscious,84.91,11,Beyond Meat,High,High,Spicy,High,No,Medium,Medium,No
+429,Flexitarian,105.8,2,Beyond Meat,Medium,Low,Classic,High,Yes,High,High,Yes
+430,Vegan,42.86,6,Local Brands,High,High,BBQ,Low,Yes,Low,Medium,Yes
+431,Vegan,86.68,5,Beyond Meat,Medium,Medium,Classic,Medium,Yes,High,Medium,No
+432,Health-Conscious,102.24,3,Beyond Meat,High,Medium,BBQ,High,No,Medium,Low,No
+433,Health-Conscious,82.06,4,Beyond Meat,Low,Low,Garlic Herb,Medium,No,Medium,Low,No
+434,Vegan,106.64,10,Local Brands,High,Low,Garlic Herb,High,No,Low,Medium,Yes
+435,Vegan,67.07,1,Impossible Foods,Medium,Low,Classic,Medium,Yes,High,Medium,Yes
+436,Health-Conscious,115.23,8,Generic,Medium,High,BBQ,High,Yes,Medium,Medium,No
+437,Vegan,137.47,3,Beyond Meat,Medium,Low,Classic,High,No,Medium,Medium,Yes
+438,Health-Conscious,70.93,5,Generic,High,Medium,BBQ,High,No,Medium,Medium,Yes
+439,Health-Conscious,68.86,4,Generic,Low,Medium,BBQ,High,Yes,High,Medium,Yes
+440,Vegan,116.33,11,Beyond Meat,Medium,High,Garlic Herb,High,No,High,Low,No
+441,Vegan,119.49,3,Impossible Foods,Medium,Medium,Garlic Herb,Low,Yes,High,Low,Yes
+442,Omnivore,66.93,4,Beyond Meat,High,Low,BBQ,High,Yes,Medium,Medium,No
+443,Flexitarian,69.5,3,Local Brands,Medium,Low,BBQ,High,Yes,High,Medium,No
+444,Flexitarian,72.96,3,Impossible Foods,Medium,High,BBQ,High,Yes,Medium,High,Yes
+445,Health-Conscious,46.39,8,Local Brands,High,High,Garlic Herb,High,No,High,High,No
+446,Omnivore,57.03,1,Beyond Meat,High,High,Garlic Herb,Medium,Yes,Low,Medium,No
+447,Omnivore,54.9,5,Generic,Low,Low,Spicy,High,Yes,Low,High,No
+448,Health-Conscious,60.81,7,Generic,High,Medium,BBQ,High,No,Medium,Low,Yes
+449,Flexitarian,79.13,3,Generic,High,High,Spicy,High,No,Medium,High,No
+450,Vegan,85.86,7,Local Brands,Medium,High,BBQ,Medium,Yes,High,Medium,Yes
+451,Health-Conscious,118.76,5,Impossible Foods,Medium,High,Garlic Herb,High,Yes,High,Medium,No
+452,Flexitarian,55.04,7,Beyond Meat,High,High,Spicy,High,Yes,High,Medium,Yes
+453,Flexitarian,104.61,5,Generic,Medium,Low,Spicy,High,Yes,Medium,Medium,Yes
+454,Omnivore,74.65,7,Generic,High,Medium,Classic,High,No,Medium,Low,No
+455,Vegan,78.76,5,Impossible Foods,High,High,BBQ,High,No,Low,Medium,No
+456,Flexitarian,96.87,4,Beyond Meat,High,Medium,Garlic Herb,Medium,Yes,Medium,Medium,No
+457,Vegan,51.93,5,Impossible Foods,Low,High,Classic,Medium,Yes,Medium,High,Yes
+458,Flexitarian,89.56,11,Beyond Meat,High,Low,Classic,Medium,Yes,Medium,Medium,Yes
+459,Vegan,84.16,7,Impossible Foods,High,High,BBQ,High,No,Medium,Low,No
+460,Vegan,92.31,6,Impossible Foods,Medium,High,Classic,High,Yes,High,Medium,No
+461,Vegan,87.23,3,Generic,Low,High,BBQ,High,Yes,Medium,Low,No
+462,Health-Conscious,141.38,0,Beyond Meat,High,Medium,Classic,Low,Yes,Medium,Medium,Yes
+463,Health-Conscious,64.06,10,Impossible Foods,Medium,Medium,BBQ,High,Yes,Medium,High,Yes
+464,Flexitarian,66.73,5,Beyond Meat,High,Medium,Garlic Herb,Medium,Yes,Low,High,No
+465,Omnivore,64.42,5,Beyond Meat,Medium,High,BBQ,High,Yes,Medium,Medium,No
+466,Flexitarian,66.11,3,Generic,Medium,High,BBQ,High,No,High,Medium,Yes
+467,Flexitarian,64.07,4,Local Brands,Medium,High,Spicy,High,No,Medium,Low,No
+468,Health-Conscious,109.73,2,Impossible Foods,High,Medium,Garlic Herb,High,No,Medium,Medium,Yes
+469,Flexitarian,115.51,2,Generic,High,High,Garlic Herb,Low,Yes,High,Medium,Yes
+470,Omnivore,65.73,7,Local Brands,High,Medium,Garlic Herb,Low,Yes,Medium,Medium,Yes
+471,Vegan,59.19,3,Generic,High,Low,Classic,High,Yes,Low,Medium,Yes
+472,Omnivore,91.79,1,Beyond Meat,High,Low,Spicy,High,Yes,Low,High,Yes
+473,Vegan,66.19,3,Local Brands,Medium,High,Garlic Herb,Low,No,High,High,Yes
+474,Health-Conscious,95.82,7,Impossible Foods,Low,High,Classic,Medium,Yes,Low,High,Yes
+475,Flexitarian,85.07,5,Beyond Meat,Low,High,Classic,High,Yes,Medium,High,No
+476,Omnivore,42.11,5,Beyond Meat,Low,Medium,Classic,High,No,Medium,High,Yes
+477,Vegan,118.69,4,Impossible Foods,Medium,Low,Spicy,High,No,Medium,High,Yes
+478,Flexitarian,124.9,5,Beyond Meat,Medium,High,Classic,High,Yes,Low,Medium,Yes
+479,Omnivore,64.68,5,Beyond Meat,High,High,Spicy,High,Yes,Medium,Medium,Yes
+480,Flexitarian,70.31,3,Beyond Meat,Medium,Low,BBQ,High,Yes,Medium,Low,No
+481,Health-Conscious,87.15,3,Generic,Medium,Low,Classic,High,Yes,Medium,High,Yes
+482,Health-Conscious,88.36,6,Local Brands,Medium,High,Garlic Herb,High,Yes,Medium,Medium,No
+483,Flexitarian,96.46,6,Beyond Meat,Medium,Medium,Classic,High,Yes,High,Medium,No
+484,Health-Conscious,130.26,4,Local Brands,High,High,BBQ,Medium,No,Low,High,Yes
+485,Flexitarian,75.58,9,Local Brands,High,High,BBQ,Medium,Yes,Medium,Low,Yes
+486,Omnivore,60.04,6,Generic,Low,Low,Classic,High,Yes,Medium,High,Yes
+487,Vegan,45.52,5,Beyond Meat,High,Low,BBQ,Low,Yes,High,Low,Yes
+488,Flexitarian,61.73,5,Generic,Medium,Medium,Spicy,Low,Yes,Medium,Low,No
+489,Omnivore,79.17,4,Local Brands,Low,High,Spicy,High,No,High,Medium,No
+490,Health-Conscious,124.86,10,Generic,Medium,Low,Classic,High,Yes,High,Medium,Yes
+491,Flexitarian,67.06,6,Beyond Meat,Medium,High,Spicy,Medium,Yes,Medium,Medium,Yes
+492,Health-Conscious,85.59,2,Impossible Foods,High,High,Spicy,Medium,Yes,Medium,Medium,Yes
+493,Flexitarian,79.59,4,Impossible Foods,High,Medium,Garlic Herb,Low,No,Medium,Medium,No
+494,Vegan,109.71,3,Impossible Foods,Low,High,Classic,Medium,Yes,High,High,Yes
+495,Flexitarian,143.17,2,Beyond Meat,Medium,Medium,BBQ,Medium,No,Medium,High,Yes
+496,Flexitarian,66.73,5,Beyond Meat,Medium,Medium,Classic,High,Yes,High,Medium,Yes
+497,Flexitarian,67.76,6,Generic,High,High,Spicy,High,Yes,Low,Medium,No
+498,Vegan,106.1,5,Local Brands,High,High,Garlic Herb,High,Yes,Medium,Low,No
+499,Omnivore,97.05,10,Beyond Meat,Low,High,Classic,High,No,Medium,High,Yes
+500,Omnivore,126.17,5,Local Brands,High,High,Classic,Medium,No,Medium,Low,Yes
